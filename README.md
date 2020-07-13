@@ -8,4 +8,4 @@ With a background both in-house and in agencies, Rich has worked on hundreds of 
 
 Rich takes pride in his craft: he cares deeply about clean code, about accessibility, and about user-centered iterative design.
 
-[richholman.com](https://www.richholman.com)
+[richholman.com](https://richholman.com)
