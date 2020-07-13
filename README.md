@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/dogwonder/dogwonder/raw/master/src/common/images/icon48.png "Rich Holman - web developer")
+![alt text](https://raw.githubusercontent.com/dogwonder/dogwonder/master/banner.png "Rich Holman - web developer")
 
 
 Rich Holman is an expert web developer with over 20 years experience - he's been building websites since the web itself was new.
